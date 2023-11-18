@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mantasgg.github.io/posts/post2/</loc>
+    <lastmod>2023-11-18T14:51:47+02:00</lastmod>
+  </url><url>
     <loc>https://mantasgg.github.io/</loc>
-    <lastmod>2023-11-18T14:34:38+02:00</lastmod>
+    <lastmod>2023-11-18T14:51:47+02:00</lastmod>
   </url><url>
     <loc>https://mantasgg.github.io/posts/</loc>
-    <lastmod>2023-11-18T14:34:38+02:00</lastmod>
+    <lastmod>2023-11-18T14:51:47+02:00</lastmod>
   </url><url>
     <loc>https://mantasgg.github.io/posts/posts/</loc>
     <lastmod>2023-11-18T14:34:38+02:00</lastmod>
